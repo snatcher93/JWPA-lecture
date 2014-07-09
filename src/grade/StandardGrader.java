@@ -1,6 +1,6 @@
 package grade;
 
-public class StandrdGrader {
+public class StandardGrader {
 	private static final String [] GRADES = {"A", "B", "C", "D", "F"};
 	
 	public String grade(int [] scores) {
